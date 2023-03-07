@@ -1,0 +1,139 @@
+.wrapper .submit_btn {
+  padding: 10px 15px;
+  font-weight: 500;
+}
+
+
+.btn1 {
+  margin: 10px;
+  text-align: left;
+
+
+  border-width: 0px;
+  font-size: 20px;
+  padding: 15px 25px;
+  border-radius: 8px;
+}
+
+.btn2 {
+  margin: 10px;
+  margin-left: 10px;
+  margin-top: 15px;
+  width: 150px;
+  border-width: 0px;
+  font-size: 15px;
+  padding: 5px 20px;
+  border-radius: 18px;
+  text-align: center;
+  background-color: black;
+  color: white;
+
+}
+
+.btn3 {
+  background-color: black;
+  color: white;
+  padding: 12px 12px;
+  border-width: 0px;
+  font-size: 12px;
+  width: 120px;
+  border-radius: 8px;
+  margin-right: 30px;
+}
+
+/* Survey List */
+.tble td {
+  margin: 2%;
+}
+
+.btn7 {
+  margin: 10px;
+  padding: 8px 12px;
+  background-color: #50CDC0;
+  border-radius: 15px;
+  border-width: 0px;
+}
+
+.update_survey {
+  float: right;
+  margin-right: 10px;
+  border-width: 0px;
+  background-color: #82CAA6;
+  padding: 3px;
+  border-radius: 5px;
+  margin: 10px;
+  margin-top: 15px;
+}
+
+/* USER LIST */
+.table {
+  margin: 3%;
+}
+
+.btn7 {
+  margin: 15px;
+  padding: 8px 12px;
+  background-color: #50CDC0;
+  border-radius: 15px;
+  border-width: 0px;
+}
+
+/* DATA Table */
+.dataTables_wrapper {
+  margin: 2%;
+}
+
+.dataTables_length,
+.dataTables_filter {
+  font-weight: bold;
+}
+
+.dataTables_paginate {
+  font-weight: 500;
+}
+
+
+
+/* DASHBOARD */
+.viewbtn {
+  border-width: 0px;
+  bottom: 10px;
+  right: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #138579;
+}
+
+.tabbtn {
+
+  border-width: 0px;
+  right: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #138579;
+}
+
+.totaluser {
+  background-color: #90d1edb5 !important;
+}
+
+.activesurvey {
+  background-color: #138579bf !important;
+}
+
+.inactivesurvey {
+  background-color: #2f82b5 !important;
+}
+
+.expiredsurvey {
+  background-color: #686a6a !important;
+}
+
+.deletedsurvey {
+  background-color: #c56d6d !important;
+}
+
+/* question type display */
+.btne2 {
+  display: none;
+}
